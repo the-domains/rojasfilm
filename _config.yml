@@ -1,19 +1,4 @@
-name: Rojas Film
-favicon: null
-layout_spectrum: 0.9725459152832627
-typography_spectrum: 0.13053132663480937
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#9D2D3C'
@@ -21,8 +6,13 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.33040967863053083
-  lightness: 0.4092795713804662
-  saturation: 0.7054918671492487
-  rhythmicContrast: 0.5349418041296303
+  brandStrength: 0.76098
+  lightness: 0.297297
+  rhythmicContrast: 0.728885
+  saturation: 0.440878
+cta: {}
+layout_spectrum: 0.006757
+name: Rojas Film
+opengraph: {}
 purpose: []
+typography_spectrum: 0.505912
