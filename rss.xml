@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rojas Film]]></title>
+        <description><![CDATA[Rojas Film]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 20:10:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mac Pro]]></title>
+            <description><![CDATA[<article><h1>Mac Pro</h1><p>Select your model or customize your own Mac Pro available with Quad-Core or 6-Core. Get an in-depth look at Mac Pro and buy online.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/996eeaf2e1f61b2499f579637f43c5b7a9bd3631.jpg"></article>]]></description>
+            <link>http://www.apple.com/shop/buy-mac/mac-pro?product=Z0P8&amp;step=cto_accessories</link>
+            <guid isPermaLink="false">055d5766-5e83-43c2-b207-116ee4a268a8</guid>
+            <pubDate>Tue, 23 Feb 2016 20:10:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
